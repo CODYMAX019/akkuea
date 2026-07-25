@@ -1,0 +1,27 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "backup",
+    "chore/cycles-4-5-planning",
+    "develop",
+    "fix/972-complete-openapi-v1-docs",
+    "fix/property-viewer3d-set-state-in-effect",
+    "origin"
+  ],
+  "parent": {
+    "backup": "develop",
+    "chore/cycles-4-5-planning": "develop",
+    "develop": null,
+    "fix/972-complete-openapi-v1-docs": "develop",
+    "fix/property-viewer3d-set-state-in-effect": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "backup",
+    "chore/cycles-4-5-planning",
+    "fix/972-complete-openapi-v1-docs",
+    "fix/property-viewer3d-set-state-in-effect",
+    "origin"
+  ]
+}
